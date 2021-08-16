@@ -1,6 +1,6 @@
 import requests
 
-cotacoes = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL")
+cotacoes = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL") # BTC-BRL
 cotacoes = cotacoes.json()
 
 for moeda, inf in cotacoes.items():
