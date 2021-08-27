@@ -1,2 +1,2 @@
 # Random-codes
-Alguns códigos aleatórios interessantes e outros nem tanto.
+Códigos aleatórios, alguns interessantes e outros nem tanto.
